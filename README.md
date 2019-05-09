@@ -1,5 +1,4 @@
 # DevOpsChileWIC
-# Rama develop
-
+# Rama master
 Caso de estudio ChileWIC
 
